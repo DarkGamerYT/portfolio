@@ -2,9 +2,6 @@
 ## Content
 ### Better on Bedrock
 - Download: [MCPEDL](https://mcpedl.com/better-on-bedrock/)
-<img src="./assets/bob/quests-1.png" width="960" height="540">
-<img src="./assets/bob/quests-2.png" width="960" height="540">
-<img src="./assets/bob/backpacks.png" width="960" height="540">
 
 ### Better Tools
 Adds a set of overpowered tools to Minecraft that do different things.
